@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root { 
+    --bg-dorado-1:#F2D8A7;
+    --bg-dorado-2:#D9AF63;
+    --bg-dorado-3:#BF8C4E;
+    --bg-dorado-4:#C8A76E;
+    --bg-dorado-5:#84643f;
+    --txt-body: #242424;
+    --white: #ffffff;
+    --gray: #989898;
+
+    --bg-dorado-opacity-50: rgba(208, 187, 130, 0.149);
+
+    --bg-section-light: rgba(208, 187, 130, 0.149);
+    --bg-section-dark: #393939; 
+    --bg-footer: #242424;
+
+    --bg-gradient: linear-gradient(131deg, #76593A -3.63%, #C8A76E 55.5%, #76593A 107.94%); 
+
+    --font-great-vibes: "Great Vibes", cursive;
+    --font-PT-serif: "PT Serif", serif;
+    --font-Cinzel: "Cinzel", serif;
+     
+ 
+}
