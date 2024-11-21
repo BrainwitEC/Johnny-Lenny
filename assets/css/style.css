@@ -218,6 +218,7 @@
 .date-time .time_number {
     font-size: x-large;
     color: var(--bg-dorado-4);
+    font-weight: 700;
 }
 
 .date-time .time_txt {
@@ -616,6 +617,7 @@
 .place-dinner p {
     text-align: center;
     width: 80%;
+    font-size: small;
 }
 
 .btn-dinner {
